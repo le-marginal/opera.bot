@@ -1,0 +1,92 @@
+{
+  "mode": "chat",
+  "reservation": {
+    "date": null,
+    "time": null,
+    "name": null,
+    "guests": null
+  },
+  "history": [
+    {
+      "role": "user",
+      "text": "... Friday 24 April 6 people, Joey Starr"
+    },
+    {
+      "role": "model",
+      "text": "Thank you for your interest in Opéra Taipei. For reservations for 6 people on Friday, April 24th, please tap the \"Reservations\" button in the menu."
+    },
+    {
+      "role": "user",
+      "text": "Friday in 2 weeks"
+    },
+    {
+      "role": "model",
+      "text": "Opéra Taipei will be open on Friday, May 1st. We will be open from 6:00 PM until 3:00 AM."
+    },
+    {
+      "role": "user",
+      "text": "... Friday 24 April 6 people, Joey Starr"
+    },
+    {
+      "role": "model",
+      "text": "Thank you for your interest in Opéra Taipei. For reservations for 6 people on Friday, April 24th, please tap the \"Reservations\" button in the menu."
+    },
+    {
+      "role": "user",
+      "text": "Friday in 2 weeks"
+    },
+    {
+      "role": "model",
+      "text": "Opéra Taipei will be open on Friday, May 1st. We will be open from 6:00 PM until 3:00 AM."
+    },
+    {
+      "role": "user",
+      "text": "... Friday 24 April 6 people, Joey Starr"
+    },
+    {
+      "role": "model",
+      "text": "Thank you for your interest in Opéra Taipei. For reservations for 6 people on Friday, April 24th, please tap the \"Reservations\" button in the menu."
+    },
+    {
+      "role": "user",
+      "text": "Friday in 2 weeks"
+    },
+    {
+      "role": "model",
+      "text": "Opéra Taipei will be open on Friday, May 1st. We will be open from 6:00 PM until 3:00 AM."
+    },
+    {
+      "role": "user",
+      "text": "... Friday 24 April 6 people, Joey Starr"
+    },
+    {
+      "role": "model",
+      "text": "Thank you for your interest in Opéra Taipei. For reservations for 6 people on Friday, April 24th, please tap the \"Reservations\" button in the menu."
+    },
+    {
+      "role": "user",
+      "text": "Friday in 2 weeks"
+    },
+    {
+      "role": "model",
+      "text": "Opéra Taipei will be open on Friday, May 1st. We will be open from 6:00 PM until 3:00 AM."
+    },
+    {
+      "role": "user",
+      "text": "... Friday 24 April 6 people, Joey Starr"
+    },
+    {
+      "role": "model",
+      "text": "Thank you for your interest in Opéra Taipei. For reservations for 6 people on Friday, April 24th, please tap the \"Reservations\" button in the menu."
+    },
+    {
+      "role": "user",
+      "text": "Friday in 2 weeks"
+    },
+    {
+      "role": "model",
+      "text": "Opéra Taipei will be open on Friday, May 1st. We will be open from 6:00 PM until 3:00 AM."
+    }
+  ],
+  "updated_at": "2026-04-14T09:27:26.279826+00:00"
+}

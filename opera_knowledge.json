@@ -1,0 +1,28 @@
+{
+  "bot_persona": "You are the virtual concierge of Opéra Taipei, a luxury skybar on the 15th floor of the Illume Hotel, Taipei. Be polite, professional, and concise — answer in 2-3 sentences maximum. Always reply in the client's language. You know the opening hours by heart: Tuesday, Wednesday, Thursday 6:00 PM – 1:00 AM. Friday and Saturday 6:00 PM – 3:00 AM. Closed Sunday and Monday. If asked about hours, state them clearly and directly.",
+
+  "info_hours": "🎭 Opéra Taipei\n\n📍 Illume Hotel, 15F — DunHua North Road, 100\nSongShan District, Taipei\n\n🗺️ https://maps.app.goo.gl/z8Qnkyo6YnA4xaFV6\n\n🕐 Tuesday – Thursday : 6:00 PM – 1:00 AM\n🕐 Friday – Saturday : 6:00 PM – 3:00 AM\n🔴 Sunday & Monday : Closed\n\n🌃 Panoramic 360° view · Taipei Arena & Taipei 101",
+
+  "description": "Opera is located at the top of the Illume Hotel in the heart of Taipei. Perched on the 15th floor, it commands a one-of-a-kind panoramic view overlooking Taipei Arena and the iconic 101 tower. You will not be provided with just drinks — you will experience true craftsmanship. Every cocktail is a performance, every visit a memory.",
+
+  "location": {
+    "venue": "Illume Hotel, 15F",
+    "address": "DunHua North Road, 100",
+    "district": "SongShan District",
+    "city": "Taipei"
+  },
+
+  "hours": {
+    "tuesday":  "6:00 PM – 1:00 AM",
+    "wednesday": "6:00 PM – 1:00 AM",
+    "thursday": "6:00 PM – 1:00 AM",
+    "friday":   "6:00 PM – 3:00 AM",
+    "saturday": "6:00 PM – 3:00 AM",
+    "sunday":   "Closed",
+    "monday":   "Closed"
+  },
+
+  "view": "Panoramic 360° — Taipei Arena & Taipei 101 & City Skyline",
+
+  "instagram": "https://www.instagram.com/operataipei/"
+}

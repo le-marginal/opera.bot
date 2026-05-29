@@ -1,0 +1,2579 @@
+{
+  "drinks_menu_1": {
+    "altText": "Drinks Menu 🎭",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HOUSE SIGNATURES",
+                "color": "#E0C39E",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "招牌特調",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Watermelon Gin & Tonic  西瓜琴湯尼",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gin, Lime, Watermelon Syrup, Watermelon Ice Cubes, Tonic / 琴酒,萊姆,西瓜糖漿,西瓜冰塊,通寧水",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Oolong Old Fashioned  烏龍古典雞尾酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Oolong Infused Whiskey / 烏龍茶浸泡威士忌",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Earl Grey Negroni  伯爵尼格羅尼",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Earl Grey Infused Gin, Sweet Vermouth, Campari / 伯爵琴酒,甜香艾酒,金巴利",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Chocolate Negroni  巧克力尼格羅尼",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "VSOP Cognac, Homemade Chocolate Liqueur, Triple Sec, Campari / 干邑白蘭地,自製巧克力利口酒,橙酒,金巴利",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Umabee  鮮蜜蜂",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gin, Lemon, Sparkling Wine Reduction, Bee Pollen / 琴酒,檸檬,葡萄氣泡酒濃縮糖漿,蜂花粉",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Absinthe Emerald  翡翠苦艾酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gin, Absinthe, Lemon, Simple, Yuzu Kosho, Shiso Leaves / 琴酒,苦艾酒,檸檬,糖漿,柚子胡椒,紫蘇",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Melon Matcha  香瓜抹茶",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gin, Melonade, Malic Acid, Matcha Tea, Egg Whites / 琴酒,香瓜利口酒,蘋果酸,抹茶,蛋白",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Almond Buck  杏仁騾子",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Bourbon, Amaretto Adriatico Bianco, Lemon, Ginger Syrup / 波本威士忌,杏仁利口酒,檸檬,老薑",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Szechuan Mule  四川騾子",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Vodka, Lime, Ginger, Homemade Green Szechuan Peppercorn Liqueur / 伏特加,萊姆,老薑,自製青花椒利口酒",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Niaoli Calvados  鳥梨蘋果白蘭地",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Apple Eau de Vie, Lemon, Candied Asian Pear / 蘋果白蘭地,檸檬,鳥梨",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HOUSE SIGNATURES (SUITE)",
+                "color": "#E0C39E",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "招牌特調",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Earl Grey Sour  伯爵蘋果酸酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Earl Grey Infused Gin, Lemon, Honey, Apple / 伯爵琴酒,檸檬,蜂蜜,蘋果",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Sour Plum Soup Whiskey Sour  酸梅湯威士忌酸酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Sour Plum Soup Infused Whiskey, Lemon, Simple, Bitters, Smoky Islay / 酸梅湯浸泡威士忌,檸檬,糖漿,苦精,煙燻艾雷島威士忌",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Passion Fruit Daiquiri  百香果黛綺麗",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rum, Lime, Passion Fruit, Magao / 蘭姆酒,萊姆,百香果,馬告",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Calamansi pepper Margarita  金桔白胡椒瑪格麗特",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Tequila, Lime, Calamansi, White peppercorn / 龍舌蘭,萊姆,金桔,白胡椒",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "El Diablo Verde  綠魔鬼",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Durango Mezcal, Lime, Jalapeno, Merlet Creme de Cassis / 德龍貝梅斯卡爾,萊姆,綠辣椒,黑醋栗利口酒",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Guava Cooler  芭樂冷飲",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rum, Lime, Guava, Cucumber & Kaffir Lime Leaf Syrup / 蘭姆酒,萊姆,芭樂,小黃瓜,卡菲爾檸檬葉",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "CLASSIC COCKTAILS",
+                "color": "#E0C39E",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "經典雞尾酒",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Old Fashioned  古典雞尾酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Bourbon, Golden Sugar, Bitters / 波本威士忌,黃糖,苦精",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Dirty Martini  髒馬丁尼",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gin, Dirty Juice, Olive / 琴酒,髒汁,橄欖",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Manhattan  曼哈頓",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Bourbon, Sweet Vermouth, Cherry, Bitters / 波本威士忌,甜香艾酒,樱桃,苦精",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Espresso Martini  義式咖啡馬丁尼",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Vodka, Espresso, Brown Sugar, Homemade Coffee Amaro / 伏特加,義式濃縮咖啡,黃糖,自製咖啡苦酒",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Penicillin  盤尼西林",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Scotch Whisky, Lemon, Ginger, Honey, Smoky Islay / 蘇格蘭威士忌,檸檬,老薑,蜂蜜,煙燻艾雷島威士忌",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "New York Sour  紐約酸酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Bourbon, Lemon, Golden Sugar, Bitters, Ruby Port / 波本威士忌,檸檬,黃糖,苦精,波特酒",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Pisco Sour  皮斯可酸酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Pisco, Lemon, Simple, Amargo Chuncho, Egg Whites / 皮斯科渣釀白蘭地,檸檬,糖漿,苦精,蛋白",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Caipirinha  卡琵莉亞",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Cachaca, Lime, Brown Sugar, Bitters / 卡夏莎巴西甘蔗酒,萊姆,紅糖,苦精",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Paloma  佩羅瑪",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Tequila, Lime, Grapefruit, Campari, salt, Co2 / 龍舌蘭,檸檬,葡萄柚,金巴利,鹽,碳酸",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Clover Club  三葉草俱樂部",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gin, Lemon, Raspberry, Sweet Vermouth, Egg Whites / 琴酒,檸檬,覆盆子,甜香艾酒,蛋白",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "CLASSIC COCKTAILS (SUITE)",
+                "color": "#E0C39E",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "經典雞尾酒",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Pina Colada  鳳梨可樂達",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rum, Lime, Pineapple, Cream of Coconut / 蘭姆酒,萊姆,鳳梨,椰奶酱",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Bloody Mary  血腥瑪莉",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Vodka, Lime, Tomato, Dirty Juice, Worcestershire, Tabasco, Peppercorn / 伏特加,萊姆,番茄汁,髒汁,伍斯特醬,辣椒汁,胡椒",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "WINE COCKTAILS",
+                "color": "#0F5A52",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "葡萄酒特調",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Aperol Spritz  艾普羅雞尾酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Aperol, Sparkling, Soda, Orange Wheel / 艾普羅開胃酒,葡萄氣泡酒,蘇打水,香橙片",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Sangria  桑格利亞酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Red Wine, Cognac, Cointreau, Orange, Apple, Cinnamon / 紅葡萄酒,干邑白蘭地,橙酒,柳橙,蘋果,肉桂",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Kir Cassis  黑醋栗基爾酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Blackcurrant Liqueur, Sparkling Wine / 黑醋栗利口酒,葡萄氣泡酒",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "WINE BY THE GLASS",
+                "color": "#0F5A52",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "單杯葡萄酒",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "House Red/White  葡萄酒紅/白",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$300",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Laroche Sparkling Brut  氣泡酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$300",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Francois Montand Sparkling Rose  粉紅氣泡酒",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$400",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Marquis de Pomereuil Champagne  香檳",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$600",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "BEERS",
+                "color": "#8899AA",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "啤酒",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Asahi  朝日",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$200",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "5%",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Red Point TaiPA  台灣",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$250",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "5.80%",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "HOMEMADE SODAS",
+                "color": "#0F5A52",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "自製氣泡飲",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Ginger Ale  薑汁汽水",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$200",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ginger, Lime, Golden Sugar / 老薑,萊姆,黃糖",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Grapefruit Green Tea  葡萄柚綠茶汽水",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$200",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Grapefruit, Green Tea, Lime, Sugar / 葡萄柚,綠茶,萊姆,糖",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Tepache  蒂帕切",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$200",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Pineapple, Ginger, Jalapeno, Lime, Sugar / 鳳梨,老薑,墨西哥辣椒,萊姆,糖",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Oolong Sparkling  烏龍混合茶汽水",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$200",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Blend of Oolong Teas, Golden Sugar / 烏龍混合茶,黃糖",
+                    "color": "#8899AA",
+                    "size": "xxs",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "food_carousel": {
+    "altText": "Food Menu 🍽️",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "type": "bubble",
+          "size": "kilo",
+          "styles": {
+            "header": {
+              "backgroundColor": "#0B1729"
+            },
+            "body": {
+              "backgroundColor": "#0B1729"
+            }
+          },
+          "header": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingTop": "lg",
+            "paddingBottom": "sm",
+            "paddingStart": "md",
+            "paddingEnd": "md",
+            "contents": [
+              {
+                "type": "text",
+                "text": "APPETIZERS & TASTY BITES",
+                "color": "#E0C39E",
+                "size": "sm",
+                "weight": "bold",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "餐點",
+                "color": "#8899AA",
+                "size": "xxs",
+                "align": "center",
+                "margin": "xs"
+              },
+              {
+                "type": "separator",
+                "color": "#A8895E",
+                "margin": "sm"
+              }
+            ]
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "backgroundColor": "#0B1729",
+            "paddingAll": "sm",
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Roasted Nuts, Sweet & Savory  紅糖烤堅果",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$250",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Chips & House Salsa  莎莎醬和玉米片",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$250",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Roasted Chicken Wrap  鮮蔬優格香烤雞肉捲",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$250",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Salmon Gravlax  醃製鮭魚麵包塔佐酸奶油",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Homemade Duck Prosciutto  自製鴨肉風乾",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$350",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "separator",
+                "color": "#6F213E",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "xs",
+                "paddingStart": "sm",
+                "paddingEnd": "sm",
+                "paddingTop": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "NACHOS PLATTER  玉米片拼盤",
+                        "color": "#F5F0E8",
+                        "size": "xxs",
+                        "flex": 5,
+                        "wrap": true,
+                        "weight": "bold"
+                      },
+                      {
+                        "type": "text",
+                        "text": "NT$500",
+                        "color": "#E0C39E",
+                        "size": "xxs",
+                        "align": "end",
+                        "flex": 2,
+                        "gravity": "center"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

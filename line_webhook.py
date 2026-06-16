@@ -44,12 +44,12 @@ os.makedirs(CONVERSATIONS_DIR, exist_ok=True)
 
 # ====================== GEMINI ======================
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/gaston/.secrets/vertex-key.json"
-gemini_client = genai.Client(
-    vertexai=True,
-    project=GOOGLE_CLOUD_PROJECT,
-    location="us-central1"
-)
+import sys
+if '/home/gaston' not in sys.path:
+    sys.path.insert(0, '/home/gaston')
+from shared.llm import create_gemini_client
+
+gemini_client = create_gemini_client(GOOGLE_CLOUD_PROJECT)
 
 # ====================== KNOWLEDGE BASE ======================
 
